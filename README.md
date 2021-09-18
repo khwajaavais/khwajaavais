@@ -1,5 +1,5 @@
 <p align="center">
- <img width="800" height="400" src="https://github.com/khwajaavais/khwajaavais/blob/a6b86eacc3edf42a459af2a00c7c6db9506dd123/social/Khwaja%20Avais%20GIF.gif"> 
+ <img width="800" height="400" src="https://github.com/khwajaavais/khwajaavais/blob/86e33acfc0896c1148f0c89c3b100e90a1a066bc/social/KHWAJA%20AVAIS%20LAKDAWALA.gif"> 
 <!--  <img width="800" height="400" src="C:\Users\khwaj\Downloads\KHWAJA AVAIS LAKDAWALA.gif"> -->
  
 </p>
@@ -10,12 +10,7 @@
 
 <p align="center">When I'm not developing and coding, you can find me watching Netflix or Sports. Playing cricket was also on that list, but quarantine has removed that for now 😢. But analysing cricket facts are something that I love very much ♥️.</p>
 
-<p align="center">
-<a href="https://twitter.com/https://twitter.com/KhwajaavaisL"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-
-<a href="https://www.linkedin.com/in/khwajaavais-lakdawala/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-
-<a href="https://www.instagram.com/_khwajaavais_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p align="center"><a href="https://twitter.com/https://twitter.com/KhwajaavaisL"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a><a href="https://www.linkedin.com/in/khwajaavais-lakdawala/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://www.instagram.com/_khwajaavais_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
 <!-- 
