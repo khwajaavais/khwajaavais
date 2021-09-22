@@ -3,7 +3,7 @@
 <!--  <img width="800" height="400" src="C:\Users\khwaj\Downloads\KHWAJA AVAIS LAKDAWALA.gif"> -->
  
 </p>
-<h2 align="center">👋 I'm Khwaja Avais I Lakdawala! 👋🤓</h2>
+<h2 align="center">👋 I'm Khwaja Avais I Lakdawala !! 👋🤓</h2>
 <p align="center">I have completed my Bachelor of Engineering in Computer Engineering from KJSIEIT, Mumbai 🧑‍🎓. I'm passionate about areas of Data Science like Machine learning, Deep learning and Analytics👨‍💻. You can also find me interested in automation🤖.  I hope to contribute to that field as well. 
 </p>
 <p align="center">I have implemented various Machine Learning Projects as well on Time Series, Regression, Classification and many more... </p>
