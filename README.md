@@ -3,7 +3,7 @@
 <!--  <img width="800" height="400" src="C:\Users\khwaj\Downloads\KHWAJA AVAIS LAKDAWALA.gif"> -->
  
 </p>
-<h2 align="center">👋 I'm Khwaja Avais I Lakdawala !! 👋🤓</h2>
+<h2 align="left">👋 I'm Khwaja Avais I Lakdawala !! 👋🤓</h2>
 <p align="left"><b>Having 1.9 Years of professional work experience in the Data Science Domain.</b><br>
 Employed with Medly and Tech Mahindra Business Services(TechMBS)*. Worked on <b>Customer Segmentation Model using RFM</b>, collaborated with the market expansion team to create <b>Market Expansion Tool</b>.</p>
 
