@@ -1,7 +1,6 @@
 <!-- <p align="center">
   <img width="800" height="400" src="https://github.com/khwajaavais/khwajaavais/blob/86e33acfc0896c1148f0c89c3b100e90a1a066bc/social/KHWAJA%20AVAIS%20LAKDAWALA.gif"> 
   <!--  <img width="800" height="400" src="C:\Users\khwaj\Downloads\KHWAJA AVAIS LAKDAWALA.gif"> -->
--->
 
 </p>
 <h2 align="center">👋 I'm Khwaja Avais I Lakdawala !! 👋🤓</h2>
