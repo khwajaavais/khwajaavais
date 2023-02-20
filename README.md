@@ -5,7 +5,7 @@
 </p>
 <h2 align="center">👋 I'm Khwaja Avais Lakdawala !! 👋🤓</h2>
 <p align="left"><b>Having 1.9 Years of professional work experience in the Data Science Domain.</b><br>
-Employed with Medly and Tech Mahindra Business Services(TechMBS)*. Worked on <b>Customer Segmentation Model using RFM</b>, collaborated with the market expansion team to create <b>Market Expansion Tool</b>.</p>
+Employed with Medly and Tech Mahindra Business Services(TechMBS)* as a <b>Data Analyst</b>. Worked on <b>Customer Segmentation Model using RFM</b>, collaborated with the market expansion team to create <b>Market Expansion Tool</b>.</p>
 
 <p align="left">I'm passionate about areas of Data Science like Data Analytics, Machine learning, and Deep learning👨‍💻. I have implemented end-to-end Machine Learning Projects as well on Time Series. You can also find me interested in automation🤖.  I hope to contribute to that field as well.</p>
 
