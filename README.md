@@ -11,7 +11,7 @@ Employed with Medly and Tech Mahindra Business Services(TechMBS)* as a <b>Data A
 
 <p align="left">I have completed my Bachelor of Engineering in Computer Engineering from KJSIT, Mumbai 🧑‍🎓.</p>
 
-<p align="left">When I'm not developing and coding, you can find me watching Sports. Playing cricket was also on that list, but out of practice has removed that for now 😢. But analysing cricket facts are something that I love very much ♥️.</p>
+<p align="left">When I'm not developing and coding, you can find me watching Sports. Playing cricket was also on that list, but out of practice has removed that for now 😢. But analysing cricket facts are something that I love very much ♥️.</p><br>
 
 <p align="center"><a href="https://twitter.com/https://twitter.com/KhwajaavaisL"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/khwajaavais-lakdawala/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_khwajaavais_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
