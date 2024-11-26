@@ -2,7 +2,7 @@
   <img width="800" height="400" src="https://github.com/khwajaavais/khwajaavais/blob/86e33acfc0896c1148f0c89c3b100e90a1a066bc/social/KHWAJA%20AVAIS%20LAKDAWALA.gif"> 
   <!--  <img width="800" height="400" src="C:\Users\khwaj\Downloads\KHWAJA AVAIS LAKDAWALA.gif"> -->
 
-<h1>👋 Hi, I'm Khwaja Aavais Lakdawala</h1>
+<h1 align='center'>👋 Hi, I'm Khwaja Aavais Lakdawala</h1>
 
 <h2>🚀 Data Engineer | ML Enthusiast | Data Analytics Specialist</h2>
 
@@ -33,7 +33,7 @@
 <h3>🔗 Connect With Me</h3>
 <ul>
   <li>💼 <a href="https://www.linkedin.com/in/khwajaavais-lakdawala/" target="_blank">LinkedIn</a></li>
-  <li>📫 Reach me at <strong>khwajaavaislakdawala@gmail.com</strong></li>
+  <li>📫 Reach me at <strong>khwajaavais.l@gmail.com</strong></li>
 </ul>
 
 <hr>
