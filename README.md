@@ -30,16 +30,15 @@
 
 <hr>
 
+<h3>⚡ Fun Fact</h3>
+<p>I believe <strong>data is the bridge between complexity and clarity</strong>—and I enjoy making that journey seamless through my work.</p>
+<hr>
+
 <h3>🔗 Connect With Me</h3>
 <ul>
   <li>💼 <a href="https://www.linkedin.com/in/khwajaavais-lakdawala/" target="_blank">LinkedIn</a></li>
   <li>📫 Reach me at <strong>khwajaavais.l@gmail.com</strong></li>
 </ul>
-
-<hr>
-
-<h3>⚡ Fun Fact</h3>
-<p>I believe <strong>data is the bridge between complexity and clarity</strong>—and I enjoy making that journey seamless through my work.</p>
 
 <p align="center"><a href="https://twitter.com/https://twitter.com/KhwajaavaisL"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/khwajaavais-lakdawala/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_khwajaavais_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
